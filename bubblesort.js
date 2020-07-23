@@ -20,19 +20,3 @@ function determineSwap(previous, next){
       return false
   }
 }
-
-// swap ->
-// 8 & 3
-// 8& 4
-// 8 & 2
-
-// [3,4,2,8]
-// 3&4
-// 4&2
-
-// [3,2,4,8]
-
-// 3 & 2
-
-
-
